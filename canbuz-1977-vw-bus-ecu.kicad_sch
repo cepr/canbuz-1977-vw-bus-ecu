@@ -3359,10 +3359,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 904a84f5-a215-4745-a001-785ae084e305)
   )
-  (text "TODO add ground for FUEL_LEVEL" (at 87.63 55.88 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9a30b77b-64c8-4f38-b9f3-168c60ef04ca)
-  )
   (text "The unit has an electrical connection which sends\na resisted ground signal to the gauge to provide\nthe reading. The sending unit outputs 73 (empty\ntank) to 10 (full tank) Ohms."
     (at 21.59 88.9 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
