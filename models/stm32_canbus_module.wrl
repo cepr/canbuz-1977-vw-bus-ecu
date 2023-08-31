@@ -2,7 +2,7 @@
 DEF TXFM_1 Transform {
   center 0 0 0
   rotation 0 0 1 0
-  scale 1 1 1
+  scale 0.00254 0.00254 0.00254
   scaleOrientation 0 0 1 0
   translation 0 0 0
  children [
